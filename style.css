@@ -160,7 +160,7 @@ aside {
   padding: 0 0 1%;
   clear: both;
 }
-/*--footer---*/
+
 footer {
   background-color: #6991AC;
   width: 100%;
@@ -181,16 +181,7 @@ footer {
 .social i:hover {
   color: #f5f5f5;
 }
-/*--- begining of second footer---*/
-/*footer.second {
-  border-top: 2px solid #AADCD2;
-  background-color: #544859;
-  max-height: 35px;
-}
-footer.second p{
-  text-align: center;
-}
-/*---media start----*/
+
 @media screen and (max-width: 768px) {
   h2 {
     font-size: 150%;
@@ -204,14 +195,11 @@ footer.second p{
   header {
     position: absolute;
   }
- /* #logo {
-    margin: 15px 0 20px 25px;
-    background: url(https://res.cloudinary.com/dgpmuegqe/image/upload/v1492571257/RD_mobile_sapd7z.png) no-repeat center;
-  }
-  */
+
   #menu-icon {
     display: inline-block;
     }
+
   nav ul, nav:active ul {
     display: none;
     z-index: 1000;
@@ -235,17 +223,7 @@ footer.second p{
   .banner {
     padding-top: 86px;
   }
-  .one-fourth {
-    float: left;
-    width: 100%;
-  }
-  .one-fourth i {
-    font-size: 350%;
-    padding: 4% 0 1% 0;
-  }
-  article {
-    width: 100%;
-  }
+
   aside {
     width: 100%;
   }
